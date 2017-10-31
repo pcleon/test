@@ -1,2 +1,2 @@
-#master_ip 	role	  data_sync  	master_ip	   vip			  arbit
-127.0.0.1   master  SEMISYNC    127.0.0.2   127.0.0.3   127.0.0.4
+#master_ip idc_id 	role	  data_sync  	master_ip	   vip			  arbit
+127.0.0.1  10 master  SEMISYNC    127.0.0.2   127.0.0.3   127.0.0.4
